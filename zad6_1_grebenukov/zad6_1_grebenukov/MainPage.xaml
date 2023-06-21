@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CarouselPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="zad6_1_grebenukov.MainPage"
+              StyleId="contentpagetwo">
+
+    <CarouselPage.Resources>
+        <StyleSheet Source="styles.css"/>
+    </CarouselPage.Resources>
+    <ContentPage>
+        <StackLayout Orientation="Horizontal" Margin="0,10,0,0">
+            <StackLayout Orientation="Horizontal">
+                <StackLayout Orientation="Vertical">
+                    <Button StyleId="buttontwo" Margin="10,0,0,0" Text="BUTTON"/>
+                    <Button StyleId="buttonthree" Margin="10,0,0,0" Text="BUTTON"/>
+                    <Button StyleId="buttonfour" Margin="10,0,0,0" Text="BUTTON"/>
+                    <Button StyleId="buttonfive" Margin="10,0,0,0" Text="BUTTON"/>
+                </StackLayout>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal" Margin="0,90,0,0">
+                <StackLayout Orientation="Vertical">
+                    <Button StyleId="buttonsix" Margin="10,0,0,0" Text="LARGE"/>
+                    <Button StyleId="buttonseven" Margin="10,0,0,0" Text="NORMAL"/>
+                    <Button StyleId="buttoneigth" Margin="10,0,0,0" Padding="0,0,0,3" Text="small" />
+                </StackLayout>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage>
+    <ContentPage>
+        <StackLayout>
+            <BoxView Color="Red" WidthRequest="200" HeightRequest="200" HorizontalOptions="Center"/>
+        </StackLayout>
+    </ContentPage>
+
+</CarouselPage>

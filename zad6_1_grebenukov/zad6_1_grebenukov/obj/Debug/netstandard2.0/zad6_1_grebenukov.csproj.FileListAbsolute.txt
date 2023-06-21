@@ -1,0 +1,17 @@
+C:\Users\305-8\source\repos\zad6_1_grebenukov\zad6_1_grebenukov\obj\Debug\netstandard2.0\zad6_1_grebenukov.csproj.AssemblyReference.cache
+C:\Users\305-8\source\repos\zad6_1_grebenukov\zad6_1_grebenukov\obj\Debug\netstandard2.0\zad6_1_grebenukov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\305-8\source\repos\zad6_1_grebenukov\zad6_1_grebenukov\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\305-8\source\repos\zad6_1_grebenukov\zad6_1_grebenukov\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\305-8\source\repos\zad6_1_grebenukov\zad6_1_grebenukov\obj\Debug\netstandard2.0\Welcome.xaml.g.cs
+C:\Users\305-8\source\repos\zad6_1_grebenukov\zad6_1_grebenukov\obj\Debug\netstandard2.0\styles.css.g.cs
+C:\Users\305-8\source\repos\zad6_1_grebenukov\zad6_1_grebenukov\obj\Debug\netstandard2.0\zad6_1_grebenukov.AssemblyInfoInputs.cache
+C:\Users\305-8\source\repos\zad6_1_grebenukov\zad6_1_grebenukov\obj\Debug\netstandard2.0\zad6_1_grebenukov.AssemblyInfo.cs
+C:\Users\305-8\source\repos\zad6_1_grebenukov\zad6_1_grebenukov\obj\Debug\netstandard2.0\zad6_1_grebenukov.csproj.CoreCompileInputs.cache
+C:\Users\305-8\source\repos\zad6_1_grebenukov\zad6_1_grebenukov\obj\Debug\netstandard2.0\zad6_1_grebenukov.dll
+C:\Users\305-8\source\repos\zad6_1_grebenukov\zad6_1_grebenukov\obj\Debug\netstandard2.0\ref\zad6_1_grebenukov.dll
+C:\Users\305-8\source\repos\zad6_1_grebenukov\zad6_1_grebenukov\obj\Debug\netstandard2.0\zad6_1_grebenukov.pdb
+C:\Users\305-8\source\repos\zad6_1_grebenukov\zad6_1_grebenukov\bin\Debug\netstandard2.0\zad6_1_grebenukov.deps.json
+C:\Users\305-8\source\repos\zad6_1_grebenukov\zad6_1_grebenukov\bin\Debug\netstandard2.0\zad6_1_grebenukov.dll
+C:\Users\305-8\source\repos\zad6_1_grebenukov\zad6_1_grebenukov\bin\Debug\netstandard2.0\ref\zad6_1_grebenukov.dll
+C:\Users\305-8\source\repos\zad6_1_grebenukov\zad6_1_grebenukov\bin\Debug\netstandard2.0\zad6_1_grebenukov.pdb
+C:\Users\305-8\source\repos\zad6_1_grebenukov\zad6_1_grebenukov\obj\Debug\netstandard2.0\XamlC.stamp
